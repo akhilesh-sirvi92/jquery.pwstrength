@@ -1,0 +1,19 @@
+{
+  "name": "apc-pwstrength",
+  "version": "1.0.0",
+  "description": "PWStrength is a jQuery plugin to indicate the strength of passwords.",
+  "main": "jquery.pwstrength.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/akhilesh-sirvi92/jquery.pwstrength.git"
+  },
+  "author": "Akhilesh sirvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhilesh-sirvi92/jquery.pwstrength/issues"
+  },
+  "homepage": "https://github.com/akhilesh-sirvi92/jquery.pwstrength#readme"
+}
